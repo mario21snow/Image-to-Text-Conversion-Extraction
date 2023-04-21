@@ -1,6 +1,6 @@
 # Image to Text Conversion & Extraction - OCR
 
-**Complete Video Tutorial:** https://youtu.be/jGbq3KRy40I
+
 
 # Project Information
 
